@@ -1,5 +1,5 @@
 # SAS-Work
-I have completed Analytics project on real world problem in our life to understand how's my car mileage data could be used to improve and reduce my carbon foot print.  
+I have completed Analytics project on real world problem in our life to understand how's my car mileage data could be used to improve and reduce my carbonfoot print. If i shpuld buy fuel efficient car. 
 -First Step to SAS is to Access data
 -Explore and Validate Data
 -Prepare Data
